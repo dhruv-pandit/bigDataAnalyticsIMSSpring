@@ -1,0 +1,899 @@
+src,dst,follower_following,engagement_likes,engagement_comments,engagement_dms
+0,46,B follows A,0,10,3
+46,0,B follows A,0,10,3
+2,68,A follows B,40,45,8
+68,2,A follows B,40,45,8
+2,102,A follows B,78,21,6
+102,2,A follows B,78,21,6
+2,177,B follows A,32,8,6
+177,2,B follows A,32,8,6
+2,206,A follows B,54,52,18
+206,2,A follows B,54,52,18
+2,209,B follows A,8,22,13
+209,2,B follows A,8,22,13
+2,234,B follows A,15,23,11
+234,2,B follows A,15,23,11
+5,9,B follows A,1169,59,44
+9,5,B follows A,1169,59,44
+5,19,A and B follow each other,17,138,121
+19,5,A and B follow each other,17,138,121
+5,22,B follows A,337,15,15
+22,5,B follows A,337,15,15
+5,24,B follows A,1184,104,104
+24,5,B follows A,1184,104,104
+5,39,B follows A,542,392,75
+39,5,B follows A,542,392,75
+5,41,B follows A,195,346,120
+41,5,B follows A,195,346,120
+5,50,A and B follow each other,227,943,130
+50,5,A and B follow each other,227,943,130
+5,63,B follows A,1180,257,136
+63,5,B follows A,1180,257,136
+5,81,B follows A,357,108,93
+81,5,B follows A,357,108,93
+5,92,B follows A,927,30,60
+92,5,B follows A,927,30,60
+5,97,B follows A,977,222,88
+97,5,B follows A,977,222,88
+5,98,B follows A,502,396,15
+98,5,B follows A,502,396,15
+5,99,B follows A,872,336,153
+99,5,B follows A,872,336,153
+5,100,B follows A,76,45,15
+100,5,B follows A,76,45,15
+5,102,B follows A,1064,449,59
+102,5,B follows A,1064,449,59
+5,111,B follows A,366,30,61
+111,5,B follows A,366,30,61
+5,117,B follows A,756,339,123
+117,5,B follows A,756,339,123
+5,125,B follows A,993,75,105
+125,5,B follows A,993,75,105
+5,131,B follows A,150,315,45
+131,5,B follows A,150,315,45
+5,139,B follows A,437,241,75
+139,5,B follows A,437,241,75
+5,151,B follows A,230,399,153
+151,5,B follows A,230,399,153
+5,155,B follows A,1181,333,136
+155,5,B follows A,1181,333,136
+5,174,B follows A,1186,365,45
+174,5,B follows A,1186,365,45
+5,186,B follows A,1093,254,149
+186,5,B follows A,1093,254,149
+5,197,A and B follow each other,81,507,20
+197,5,A and B follow each other,81,507,20
+5,206,B follows A,197,75,106
+206,5,B follows A,197,75,106
+5,220,B follows A,755,286,105
+220,5,B follows A,755,286,105
+5,222,B follows A,334,319,30
+222,5,B follows A,334,319,30
+5,227,A follows B,1115,165,75
+227,5,A follows B,1115,165,75
+7,117,A follows B,24,14,4
+117,7,A follows B,24,14,4
+8,13,B follows A,174,61,35
+13,8,B follows A,174,61,35
+8,20,B follows A,74,101,10
+20,8,B follows A,74,101,10
+8,21,B follows A,71,82,51
+21,8,B follows A,71,82,51
+8,38,A and B follow each other,84,281,28
+38,8,A and B follow each other,84,281,28
+8,77,B follows A,410,98,27
+77,8,B follows A,410,98,27
+8,79,B follows A,56,97,5
+79,8,B follows A,56,97,5
+8,85,B follows A,185,30,51
+85,8,B follows A,185,30,51
+8,128,B follows A,117,117,30
+128,8,B follows A,117,117,30
+8,129,B follows A,178,76,85
+129,8,B follows A,178,76,85
+8,135,B follows A,328,56,25
+135,8,B follows A,328,56,25
+8,141,A and B follow each other,223,150,46
+141,8,A and B follow each other,223,150,46
+8,145,B follows A,154,88,11
+145,8,B follows A,154,88,11
+8,150,A and B follow each other,600,19,67
+150,8,A and B follow each other,600,19,67
+8,161,B follows A,372,62,5
+161,8,B follows A,372,62,5
+8,163,A and B follow each other,1162,143,31
+163,8,A and B follow each other,1162,143,31
+8,167,A follows B,315,46,51
+167,8,A follows B,315,46,51
+8,174,B follows A,42,123,26
+174,8,B follows A,42,123,26
+8,180,A and B follow each other,1505,47,235
+180,8,A and B follow each other,1505,47,235
+8,195,A and B follow each other,233,246,25
+195,8,A and B follow each other,233,246,25
+8,198,B follows A,311,155,41
+198,8,B follows A,311,155,41
+8,225,B follows A,100,55,67
+225,8,B follows A,100,55,67
+8,227,B follows A,271,140,26
+227,8,B follows A,271,140,26
+8,244,B follows A,399,99,47
+244,8,B follows A,399,99,47
+11,20,A follows B,107,47,26
+20,11,A follows B,107,47,26
+11,32,B follows A,152,19,6
+32,11,B follows A,152,19,6
+11,47,B follows A,95,79,31
+47,11,B follows A,95,79,31
+11,56,A follows B,143,58,20
+56,11,A follows B,143,58,20
+11,77,B follows A,220,63,10
+77,11,B follows A,220,63,10
+11,78,B follows A,15,79,22
+78,11,B follows A,15,79,22
+11,98,B follows A,27,10,17
+98,11,B follows A,27,10,17
+11,119,A and B follow each other,216,51,25
+119,11,A and B follow each other,216,51,25
+11,135,B follows A,107,22,28
+135,11,B follows A,107,22,28
+11,138,A follows B,167,25,28
+138,11,A follows B,167,25,28
+11,145,A follows B,283,81,10
+145,11,A follows B,283,81,10
+11,145,B follows A,123,31,24
+145,11,B follows A,123,31,24
+11,147,A and B follow each other,146,173,13
+147,11,A and B follow each other,146,173,13
+11,168,A follows B,16,87,29
+168,11,A follows B,16,87,29
+11,178,A follows B,216,44,3
+178,11,A follows B,216,44,3
+11,195,B follows A,571,296,32
+195,11,B follows A,571,296,32
+11,195,A follows B,670,274,43
+195,11,A follows B,670,274,43
+11,198,B follows A,9,22,19
+198,11,B follows A,9,22,19
+11,223,A follows B,34,9,22
+223,11,A follows B,34,9,22
+11,232,B follows A,389,112,15
+232,11,B follows A,389,112,15
+11,244,B follows A,151,85,32
+244,11,B follows A,151,85,32
+11,247,A follows B,273,42,33
+247,11,A follows B,273,42,33
+12,129,B follows A,263,10,34
+129,12,B follows A,263,10,34
+14,103,B follows A,700,307,36
+103,14,B follows A,700,307,36
+14,118,B follows A,319,98,122
+118,14,B follows A,319,98,122
+14,120,B follows A,1437,95,153
+120,14,B follows A,1437,95,153
+14,176,A follows B,232,24,61
+176,14,A follows B,232,24,61
+14,191,B follows A,228,114,38
+191,14,B follows A,228,114,38
+14,192,A and B follow each other,249,37,74
+192,14,A and B follow each other,249,37,74
+14,202,A follows B,270,110,36
+202,14,A follows B,270,110,36
+14,235,B follows A,211,24,74
+235,14,B follows A,211,24,74
+14,246,B follows A,36,220,36
+246,14,B follows A,36,220,36
+15,135,A follows B,0,2,0
+135,15,A follows B,0,2,0
+16,133,B follows A,5,8,1
+133,16,B follows A,5,8,1
+19,21,B follows A,177,45,21
+21,19,B follows A,177,45,21
+19,25,A follows B,41,44,13
+25,19,A follows B,41,44,13
+19,27,A and B follow each other,120,560,180
+27,19,A and B follow each other,120,560,180
+19,34,B follows A,21,53,4
+34,19,B follows A,21,53,4
+19,45,B follows A,16,47,9
+45,19,B follows A,16,47,9
+19,51,B follows A,116,45,16
+51,19,B follows A,116,45,16
+19,61,B follows A,161,61,10
+61,19,B follows A,161,61,10
+19,125,B follows A,171,61,17
+125,19,B follows A,171,61,17
+19,132,B follows A,192,2,7
+132,19,B follows A,192,2,7
+19,134,B follows A,43,50,24
+134,19,B follows A,43,50,24
+19,137,B follows A,26,26,11
+137,19,B follows A,26,26,11
+19,147,A and B follow each other,276,175,50
+147,19,A and B follow each other,276,175,50
+19,157,B follows A,39,78,39
+157,19,B follows A,39,78,39
+19,167,B follows A,39,56,21
+167,19,B follows A,39,56,21
+19,193,A and B follow each other,248,173,24
+193,19,A and B follow each other,248,173,24
+19,202,B follows A,150,12,14
+202,19,B follows A,150,12,14
+19,204,B follows A,177,45,10
+204,19,B follows A,177,45,10
+19,233,B follows A,57,36,16
+233,19,B follows A,57,36,16
+19,237,B follows A,47,37,14
+237,19,B follows A,47,37,14
+19,239,B follows A,27,2,10
+239,19,B follows A,27,2,10
+19,240,B follows A,12,7,16
+240,19,B follows A,12,7,16
+21,193,A and B follow each other,154,92,7
+193,21,A and B follow each other,154,92,7
+25,43,B follows A,6,2,3
+43,25,B follows A,6,2,3
+25,167,A follows B,19,13,2
+167,25,A follows B,19,13,2
+26,82,B follows A,5,3,1
+82,26,B follows A,5,3,1
+27,42,B follows A,406,512,88
+42,27,B follows A,406,512,88
+27,43,B follows A,504,486,18
+43,27,B follows A,504,486,18
+27,86,A follows B,478,88,35
+86,27,A follows B,478,88,35
+27,88,B follows A,607,293,188
+88,27,B follows A,607,293,188
+27,94,B follows A,1353,106,89
+94,27,B follows A,1353,106,89
+27,109,B follows A,454,181,90
+109,27,B follows A,454,181,90
+27,123,B follows A,1075,53,17
+123,27,B follows A,1075,53,17
+27,124,A follows B,1144,357,178
+124,27,A follows B,1144,357,178
+27,128,B follows A,529,441,123
+128,27,B follows A,529,441,123
+27,134,B follows A,724,459,141
+134,27,B follows A,724,459,141
+27,136,B follows A,673,283,159
+136,27,B follows A,673,283,159
+27,149,B follows A,1209,231,142
+149,27,B follows A,1209,231,142
+27,151,B follows A,540,162,90
+151,27,B follows A,540,162,90
+27,154,B follows A,637,53,177
+154,27,B follows A,637,53,177
+27,164,B follows A,516,178,35
+164,27,B follows A,516,178,35
+27,166,B follows A,1395,229,176
+166,27,B follows A,1395,229,176
+27,190,B follows A,432,90,144
+190,27,B follows A,432,90,144
+27,202,B follows A,1383,53,141
+202,27,B follows A,1383,53,141
+27,242,B follows A,1054,357,71
+242,27,B follows A,1054,357,71
+32,205,A follows B,5,0,1
+205,32,A follows B,5,0,1
+38,49,B follows A,729,246,54
+49,38,B follows A,729,246,54
+38,57,B follows A,529,116,80
+57,38,B follows A,529,116,80
+38,67,B follows A,237,47,47
+67,38,B follows A,237,47,47
+38,91,B follows A,261,81,90
+91,38,B follows A,261,81,90
+38,97,A and B follow each other,48,81,32
+97,38,A and B follow each other,48,81,32
+38,112,B follows A,296,179,44
+112,38,B follows A,296,179,44
+38,115,B follows A,676,225,81
+115,38,B follows A,676,225,81
+38,144,A follows B,198,144,162
+144,38,A follows B,198,144,162
+38,146,B follows A,604,9,83
+146,38,B follows A,604,9,83
+38,152,A follows B,598,233,37
+152,38,A follows B,598,233,37
+38,157,A follows B,687,65,131
+157,38,A follows B,687,65,131
+38,159,B follows A,146,156,82
+159,38,B follows A,146,156,82
+38,162,B follows A,575,265,36
+162,38,B follows A,575,265,36
+38,165,B follows A,383,37,84
+165,38,B follows A,383,37,84
+38,173,B follows A,666,194,37
+173,38,B follows A,666,194,37
+38,181,B follows A,595,45,27
+181,38,B follows A,595,45,27
+38,182,B follows A,436,27,46
+182,38,B follows A,436,27,46
+38,190,B follows A,28,271,74
+190,38,B follows A,28,271,74
+38,201,B follows A,63,117,72
+201,38,B follows A,63,117,72
+38,210,B follows A,299,253,72
+210,38,B follows A,299,253,72
+38,215,B follows A,605,171,9
+215,38,B follows A,605,171,9
+38,223,B follows A,485,215,53
+223,38,B follows A,485,215,53
+38,231,B follows A,129,18,18
+231,38,B follows A,129,18,18
+38,242,B follows A,726,55,9
+242,38,B follows A,726,55,9
+38,243,A and B follow each other,673,134,36
+243,38,A and B follow each other,673,134,36
+39,99,B follows A,10,0,0
+99,39,B follows A,10,0,0
+39,119,B follows A,349,184,58
+119,39,B follows A,349,184,58
+39,162,A follows B,11,0,2
+162,39,A follows B,11,0,2
+42,212,A follows B,52,44,10
+212,42,A follows B,52,44,10
+44,55,B follows A,9,0,1
+55,44,B follows A,9,0,1
+44,89,B follows A,0,3,0
+89,44,B follows A,0,3,0
+49,115,A follows B,11,0,1
+115,49,A follows B,11,0,1
+49,189,A and B follow each other,11,1,4
+189,49,A and B follow each other,11,1,4
+50,58,B follows A,900,342,18
+58,50,B follows A,900,342,18
+50,75,A and B follow each other,920,487,108
+75,50,A and B follow each other,920,487,108
+50,87,B follows A,967,70,175
+87,50,B follows A,967,70,175
+50,89,B follows A,1161,52,123
+89,50,B follows A,1161,52,123
+50,93,B follows A,762,248,177
+93,50,B follows A,762,248,177
+50,106,B follows A,1056,88,123
+106,50,B follows A,1056,88,123
+50,110,B follows A,477,17,17
+110,50,B follows A,477,17,17
+50,113,B follows A,563,105,158
+113,50,B follows A,563,105,158
+50,116,B follows A,674,301,35
+116,50,B follows A,674,301,35
+50,134,B follows A,317,17,176
+134,50,B follows A,317,17,176
+50,143,B follows A,1090,140,70
+143,50,B follows A,1090,140,70
+50,153,B follows A,17,405,52
+153,50,B follows A,17,405,52
+50,160,B follows A,494,406,88
+160,50,B follows A,494,406,88
+50,166,B follows A,1127,17,52
+166,50,B follows A,1127,17,52
+50,197,A and B follow each other,824,91,45
+197,50,A and B follow each other,824,91,45
+50,205,B follows A,778,247,17
+205,50,B follows A,778,247,17
+50,209,B follows A,1267,35,176
+209,50,B follows A,1267,35,176
+50,228,B follows A,106,371,17
+228,50,B follows A,106,371,17
+50,237,B follows A,1309,300,70
+237,50,B follows A,1309,300,70
+50,238,B follows A,88,52,35
+238,50,B follows A,88,52,35
+50,243,A and B follow each other,584,166,41
+243,50,A and B follow each other,584,166,41
+50,245,B follows A,510,458,35
+245,50,B follows A,510,458,35
+52,177,A follows B,10,3,1
+177,52,A follows B,10,3,1
+52,233,A follows B,7,1,1
+233,52,A follows B,7,1,1
+53,159,B follows A,1,10,5
+159,53,B follows A,1,10,5
+53,215,A follows B,0,12,1
+215,53,A follows B,0,12,1
+53,237,B follows A,22,1,0
+237,53,B follows A,22,1,0
+55,126,A follows B,4,1,0
+126,55,A follows B,4,1,0
+60,223,B follows A,6,5,1
+223,60,B follows A,6,5,1
+63,95,B follows A,2,6,2
+95,63,B follows A,2,6,2
+64,213,A follows B,7,10,1
+213,64,A follows B,7,10,1
+67,187,B follows A,4,2,3
+187,67,B follows A,4,2,3
+70,91,A follows B,202,111,26
+91,70,A follows B,202,111,26
+70,115,B follows A,204,65,23
+115,70,B follows A,204,65,23
+70,159,B follows A,52,56,32
+159,70,B follows A,52,56,32
+70,162,B follows A,11,51,11
+162,70,B follows A,11,51,11
+70,165,B follows A,104,12,29
+165,70,B follows A,104,12,29
+70,209,A follows B,121,102,3
+209,70,A follows B,121,102,3
+70,231,B follows A,327,102,28
+231,70,B follows A,327,102,28
+71,107,B follows A,8,2,1
+107,71,B follows A,8,2,1
+71,169,B follows A,587,49,74
+169,71,B follows A,587,49,74
+73,114,A follows B,5,3,1
+114,73,A follows B,5,3,1
+76,236,A follows B,14,6,0
+236,76,A follows B,14,6,0
+77,178,A follows B,21,8,1
+178,77,A follows B,21,8,1
+80,141,B follows A,32,30,2
+141,80,B follows A,32,30,2
+80,194,B follows A,74,30,7
+194,80,B follows A,74,30,7
+80,232,A follows B,11,52,20
+232,80,A follows B,11,52,20
+81,210,B follows A,30,7,3
+210,81,B follows A,30,7,3
+83,195,A and B follow each other,334,230,47
+195,83,A and B follow each other,334,230,47
+84,90,A follows B,190,140,50
+90,84,A follows B,190,140,50
+84,105,B follows A,149,133,10
+105,84,B follows A,149,133,10
+84,130,B follows A,171,41,52
+130,84,B follows A,171,41,52
+84,153,B follows A,35,75,25
+153,84,B follows A,35,75,25
+84,156,A and B follow each other,610,396,148
+156,84,A and B follow each other,610,396,148
+84,160,B follows A,305,50,35
+160,84,B follows A,305,50,35
+84,184,A and B follow each other,645,149,111
+184,84,A and B follow each other,645,149,111
+84,185,A follows B,25,85,20
+185,84,A follows B,25,85,20
+84,218,A follows B,202,98,5
+218,84,A follows B,202,98,5
+84,220,B follows A,15,25,46
+220,84,B follows A,15,25,46
+84,226,B follows A,233,98,46
+226,84,B follows A,233,98,46
+84,226,A follows B,357,15,25
+226,84,A follows B,357,15,25
+84,228,B follows A,244,102,10
+228,84,B follows A,244,102,10
+84,238,B follows A,322,15,5
+238,84,B follows A,322,15,5
+84,242,A follows B,162,26,15
+242,84,A follows B,162,26,15
+86,88,B follows A,194,68,34
+88,86,B follows A,194,68,34
+86,94,B follows A,15,5,0
+94,86,B follows A,15,5,0
+86,123,B follows A,3,8,1
+123,86,B follows A,3,8,1
+86,128,B follows A,4,1,0
+128,86,B follows A,4,1,0
+86,136,B follows A,9,1,1
+136,86,B follows A,9,1,1
+86,154,B follows A,4,4,1
+154,86,B follows A,4,4,1
+86,162,B follows A,8,3,1
+162,86,B follows A,8,3,1
+86,166,A follows B,2,0,1
+166,86,A follows B,2,0,1
+86,187,B follows A,17,9,3
+187,86,B follows A,17,9,3
+86,190,A follows B,21,10,1
+190,86,A follows B,21,10,1
+86,198,B follows A,12,3,0
+198,86,B follows A,12,3,0
+86,212,A and B follow each other,103,41,10
+212,86,A and B follow each other,103,41,10
+86,229,B follows A,9,15,2
+229,86,B follows A,9,15,2
+88,97,B follows A,770,52,52
+97,88,B follows A,770,52,52
+88,123,A follows B,198,39,18
+123,88,A follows B,198,39,18
+88,134,B follows A,187,16,10
+134,88,B follows A,187,16,10
+88,140,A follows B,110,71,17
+140,88,A follows B,110,71,17
+88,164,B follows A,108,48,31
+164,88,B follows A,108,48,31
+88,227,A follows B,136,13,20
+227,88,A follows B,136,13,20
+89,218,A follows B,5,4,1
+218,89,A follows B,5,4,1
+95,196,B follows A,2,0,0
+196,95,B follows A,2,0,0
+97,115,B follows A,189,197,14
+115,97,B follows A,189,197,14
+97,159,A follows B,89,216,22
+159,97,A follows B,89,216,22
+97,181,B follows A,226,94,36
+181,97,B follows A,226,94,36
+97,193,A and B follow each other,365,166,11
+193,97,A and B follow each other,365,166,11
+97,196,A follows B,211,87,21
+196,97,A follows B,211,87,21
+97,197,A and B follow each other,313,75,50
+197,97,A and B follow each other,313,75,50
+97,201,B follows A,160,7,7
+201,97,B follows A,160,7,7
+97,231,A follows B,37,203,75
+231,97,A follows B,37,203,75
+97,232,B follows A,92,9,46
+232,97,B follows A,92,9,46
+100,117,B follows A,17,16,2
+117,100,B follows A,17,16,2
+100,138,B follows A,2,6,1
+138,100,B follows A,2,6,1
+105,235,A follows B,12,6,1
+235,105,A follows B,12,6,1
+108,133,A follows B,50,8,3
+133,108,A follows B,50,8,3
+110,185,A follows B,3,3,0
+185,110,A follows B,3,3,0
+111,195,A and B follow each other,105,24,56
+195,111,A and B follow each other,105,24,56
+111,244,B follows A,22,11,2
+244,111,B follows A,22,11,2
+112,231,B follows A,4,5,2
+231,112,B follows A,4,5,2
+114,121,A follows B,40,16,2
+121,114,A follows B,40,16,2
+116,184,A and B follow each other,303,37,60
+184,116,A and B follow each other,303,37,60
+116,185,B follows A,8,4,0
+185,116,B follows A,8,4,0
+119,126,B follows A,96,231,67
+126,119,B follows A,96,231,67
+119,131,B follows A,579,38,38
+131,119,B follows A,579,38,38
+119,138,B follows A,279,19,19
+138,119,B follows A,279,19,19
+119,156,A and B follow each other,844,63,42
+156,119,A and B follow each other,844,63,42
+119,177,A follows B,726,203,58
+177,119,A follows B,726,203,58
+119,178,B follows A,588,38,19
+178,119,B follows A,588,38,19
+119,189,B follows A,49,259,79
+189,119,B follows A,49,259,79
+119,197,A and B follow each other,820,432,104
+197,119,A and B follow each other,820,432,104
+119,204,A follows B,117,156,48
+204,119,A follows B,117,156,48
+119,206,B follows A,726,166,39
+206,119,B follows A,726,166,39
+119,208,A and B follow each other,384,115,38
+208,119,A and B follow each other,384,115,38
+120,191,A follows B,508,164,74
+191,120,A follows B,508,164,74
+120,192,A and B follow each other,458,65,29
+192,120,A and B follow each other,458,65,29
+120,225,A and B follow each other,456,234,13
+225,120,A and B follow each other,456,234,13
+120,230,B follows A,93,28,50
+230,120,B follows A,93,28,50
+120,246,B follows A,70,28,56
+246,120,B follows A,70,28,56
+129,133,A follows B,39,74,11
+133,129,A follows B,39,74,11
+129,142,B follows A,119,20,6
+142,129,B follows A,119,20,6
+129,156,A and B follow each other,565,446,89
+156,129,A and B follow each other,565,446,89
+129,158,B follows A,39,46,10
+158,129,B follows A,39,46,10
+129,159,B follows A,144,54,10
+159,129,B follows A,144,54,10
+129,163,A and B follow each other,42,142,85
+163,129,A and B follow each other,42,142,85
+129,179,B follows A,256,7,28
+179,129,B follows A,256,7,28
+129,214,B follows A,222,68,32
+214,129,B follows A,222,68,32
+129,223,B follows A,20,61,20
+223,129,B follows A,20,61,20
+130,220,B follows A,3,6,1
+220,130,B follows A,3,6,1
+133,172,B follows A,40,3,3
+172,133,B follows A,40,3,3
+142,158,A follows B,1,1,0
+158,142,A follows B,1,1,0
+142,223,B follows A,1,0,0
+223,142,B follows A,1,0,0
+144,159,B follows A,27,83,9
+159,144,B follows A,27,83,9
+144,162,B follows A,712,101,92
+162,144,B follows A,712,101,92
+144,173,B follows A,140,74,84
+173,144,B follows A,140,74,84
+144,176,B follows A,575,265,63
+176,144,B follows A,575,265,63
+144,182,B follows A,450,56,65
+182,144,B follows A,450,56,65
+144,193,A and B follow each other,722,296,77
+193,144,A and B follow each other,722,296,77
+144,196,B follows A,429,63,45
+196,144,B follows A,429,63,45
+144,198,B follows A,356,91,18
+198,144,B follows A,356,91,18
+144,201,B follows A,327,100,36
+201,144,B follows A,327,100,36
+144,215,B follows A,155,237,45
+215,144,B follows A,155,237,45
+144,232,A follows B,530,44,99
+232,144,A follows B,530,44,99
+144,239,B follows A,131,103,56
+239,144,B follows A,131,103,56
+144,241,B follows A,203,157,92
+241,144,B follows A,203,157,92
+147,150,A and B follow each other,619,383,14
+150,147,A and B follow each other,619,383,14
+147,151,A follows B,391,232,95
+151,147,A follows B,391,232,95
+147,157,A and B follow each other,211,17,35
+157,147,A and B follow each other,211,17,35
+147,157,B follows A,845,316,105
+157,147,B follows A,845,316,105
+147,170,B follows A,51,113,10
+170,147,B follows A,51,113,10
+147,181,B follows A,809,30,10
+181,147,B follows A,809,30,10
+147,195,A follows B,865,144,36
+195,147,A follows B,865,144,36
+147,202,A follows B,782,164,61
+202,147,A follows B,782,164,61
+147,204,A follows B,445,72,20
+204,147,A follows B,445,72,20
+147,206,B follows A,52,260,83
+206,147,B follows A,52,260,83
+147,224,A follows B,92,184,61
+224,147,A follows B,92,184,61
+147,228,B follows A,288,185,102
+228,147,B follows A,288,185,102
+147,229,B follows A,789,117,96
+229,147,B follows A,789,117,96
+147,229,B follows A,672,106,42
+229,147,B follows A,672,106,42
+147,233,A follows B,61,40,10
+233,147,A follows B,61,40,10
+147,237,A follows B,216,195,41
+237,147,A follows B,216,195,41
+147,240,B follows A,317,40,92
+240,147,B follows A,317,40,92
+147,249,B follows A,551,81,102
+249,147,B follows A,551,81,102
+150,155,B follows A,299,71,47
+155,150,B follows A,299,71,47
+150,187,B follows A,318,4,4
+187,150,B follows A,318,4,4
+150,202,A and B follow each other,56,46,42
+202,150,A and B follow each other,56,46,42
+150,204,B follows A,331,109,47
+204,150,B follows A,331,109,47
+150,224,B follows A,366,116,18
+224,150,B follows A,366,116,18
+150,233,A and B follow each other,243,119,46
+233,150,A and B follow each other,243,119,46
+150,237,B follows A,304,9,9
+237,150,B follows A,304,9,9
+150,239,B follows A,245,102,49
+239,150,B follows A,245,102,49
+150,240,B follows A,36,73,41
+240,150,B follows A,36,73,41
+150,249,B follows A,298,59,45
+249,150,B follows A,298,59,45
+156,171,A and B follow each other,1507,371,82
+171,156,A and B follow each other,1507,371,82
+156,175,B follows A,405,162,23
+175,156,B follows A,405,162,23
+156,187,B follows A,293,199,11
+187,156,B follows A,293,199,11
+156,195,A and B follow each other,890,232,154
+195,156,A and B follow each other,890,232,154
+156,198,B follows A,914,185,11
+198,156,B follows A,914,185,11
+156,206,B follows A,573,152,46
+206,156,B follows A,573,152,46
+156,210,B follows A,69,232,92
+210,156,B follows A,69,232,92
+156,222,B follows A,856,58,23
+222,156,B follows A,856,58,23
+156,247,A and B follow each other,614,353,52
+247,156,A and B follow each other,614,353,52
+157,162,B follows A,448,53,30
+162,157,B follows A,448,53,30
+157,167,A follows B,426,202,74
+167,157,A follows B,426,202,74
+157,170,B follows A,180,135,37
+170,157,B follows A,180,135,37
+157,187,A follows B,544,92,76
+187,157,A follows B,544,92,76
+157,196,B follows A,381,142,59
+196,157,B follows A,381,142,59
+157,229,A follows B,39,31,23
+229,157,A follows B,39,31,23
+157,230,A follows B,281,106,53
+230,157,A follows B,281,106,53
+157,236,B follows A,380,67,29
+236,157,B follows A,380,67,29
+157,237,B follows A,587,97,15
+237,157,B follows A,587,97,15
+157,239,A follows B,527,124,62
+239,157,A follows B,527,124,62
+157,249,B follows A,238,148,52
+249,157,B follows A,238,148,52
+158,188,B follows A,2,4,1
+188,158,B follows A,2,4,1
+159,172,A follows B,4,0,0
+172,159,A follows B,4,0,0
+160,245,A follows B,1,2,0
+245,160,A follows B,1,2,0
+163,168,B follows A,807,272,21
+168,163,B follows A,807,272,21
+163,186,B follows A,595,270,54
+186,163,B follows A,595,270,54
+163,207,B follows A,255,255,89
+207,163,B follows A,255,255,89
+163,216,B follows A,213,78,22
+216,163,B follows A,213,78,22
+169,183,A follows B,537,89,8
+183,169,A follows B,537,89,8
+169,213,A follows B,388,84,33
+213,169,A follows B,388,84,33
+171,175,B follows A,692,230,55
+175,171,B follows A,692,230,55
+171,206,B follows A,599,112,84
+206,171,B follows A,599,112,84
+171,209,A follows B,403,45,55
+209,171,A follows B,403,45,55
+171,210,B follows A,574,101,55
+210,171,B follows A,574,101,55
+171,222,B follows A,553,18,28
+222,171,B follows A,553,18,28
+171,226,B follows A,569,214,46
+226,171,B follows A,569,214,46
+171,246,B follows A,212,36,73
+246,171,B follows A,212,36,73
+173,215,B follows A,20,4,3
+215,173,B follows A,20,4,3
+180,186,B follows A,55,387,36
+186,180,B follows A,55,387,36
+180,194,B follows A,831,351,18
+194,180,B follows A,831,351,18
+180,198,B follows A,555,462,18
+198,180,B follows A,555,462,18
+180,213,B follows A,37,412,112
+213,180,B follows A,37,412,112
+180,225,B follows A,1493,269,244
+225,180,B follows A,1493,269,244
+180,241,B follows A,874,167,186
+241,180,B follows A,874,167,186
+180,243,A and B follow each other,868,173,130
+243,180,A and B follow each other,868,173,130
+180,243,A and B follow each other,1562,607,217
+243,180,A and B follow each other,1562,607,217
+180,244,B follows A,1318,427,167
+244,180,B follows A,1318,427,167
+180,247,B follows A,560,240,160
+247,180,B follows A,560,240,160
+180,248,B follows A,332,258,184
+248,180,B follows A,332,258,184
+182,210,A follows B,21,1,1
+210,182,A follows B,21,1,1
+184,218,B follows A,372,7,53
+218,184,B follows A,372,7,53
+184,220,B follows A,362,90,15
+220,184,B follows A,362,90,15
+184,238,A follows B,44,74,7
+238,184,A follows B,44,74,7
+184,243,A and B follow each other,374,10,96
+243,184,A and B follow each other,374,10,96
+184,245,A follows B,179,96,67
+245,184,A follows B,179,96,67
+189,193,A and B follow each other,168,46,25
+193,189,A and B follow each other,168,46,25
+189,205,B follows A,11,4,1
+205,189,B follows A,11,4,1
+189,216,B follows A,14,21,4
+216,189,B follows A,14,21,4
+189,223,A follows B,27,2,3
+223,189,A follows B,27,2,3
+193,194,B follows A,38,93,23
+194,193,B follows A,38,93,23
+193,202,B follows A,70,15,39
+202,193,B follows A,70,15,39
+193,210,B follows A,200,70,7
+210,193,B follows A,200,70,7
+193,216,B follows A,173,76,38
+216,193,B follows A,173,76,38
+193,224,B follows A,230,39,3
+224,193,B follows A,230,39,3
+193,229,B follows A,81,47,12
+229,193,B follows A,81,47,12
+193,233,B follows A,81,92,7
+233,193,B follows A,81,92,7
+193,236,B follows A,112,46,30
+236,193,B follows A,112,46,30
+193,237,B follows A,23,39,7
+237,193,B follows A,23,39,7
+193,239,B follows A,224,116,33
+239,193,B follows A,224,116,33
+195,205,A follows B,207,47,47
+205,195,A follows B,207,47,47
+195,209,B follows A,527,181,55
+209,195,B follows A,527,181,55
+195,220,A follows B,430,239,71
+220,195,A follows B,430,239,71
+195,225,A follows B,1071,389,97
+225,195,A follows B,1071,389,97
+195,232,B follows A,422,186,19
+232,195,B follows A,422,186,19
+195,241,B follows A,217,241,56
+241,195,B follows A,217,241,56
+195,244,B follows A,552,48,32
+244,195,B follows A,552,48,32
+197,205,A follows B,195,16,27
+205,197,A follows B,195,16,27
+197,206,B follows A,436,99,55
+206,197,B follows A,436,99,55
+197,222,B follows A,171,116,16
+222,197,B follows A,171,116,16
+197,228,B follows A,421,97,54
+228,197,B follows A,421,97,54
+204,221,B follows A,13,3,1
+221,204,B follows A,13,3,1
+208,209,B follows A,769,192,48
+209,208,B follows A,769,192,48
+208,222,B follows A,108,294,58
+222,208,B follows A,108,294,58
+208,225,A and B follow each other,344,454,93
+225,208,A and B follow each other,344,454,93
+208,232,A and B follow each other,92,312,11
+232,208,A and B follow each other,92,312,11
+208,234,B follows A,615,139,29
+234,208,B follows A,615,139,29
+208,236,B follows A,751,38,38
+236,208,B follows A,751,38,38
+208,248,B follows A,464,164,96
+248,208,B follows A,464,164,96
+211,242,A follows B,26,0,1
+242,211,A follows B,26,0,1
+212,230,B follows A,154,45,10
+230,212,B follows A,154,45,10
+217,219,A follows B,18,3,3
+219,217,A follows B,18,3,3
+221,229,A follows B,17,4,4
+229,221,A follows B,17,4,4
+221,239,A follows B,24,3,0
+239,221,A follows B,24,3,0
+223,236,B follows A,0,1,0
+236,223,B follows A,0,1,0
+229,237,B follows A,18,11,0
+237,229,B follows A,18,11,0
+229,249,B follows A,23,8,3
+249,229,B follows A,23,8,3
+232,241,A follows B,119,36,6
+241,232,A follows B,119,36,6
+232,244,A follows B,6,23,17
+244,232,A follows B,6,23,17
+232,247,A follows B,224,74,14
+247,232,A follows B,224,74,14
+233,249,B follows A,0,0,0
+249,233,B follows A,0,0,0
+243,245,B follows A,122,76,23
+245,243,B follows A,122,76,23
+243,247,A follows B,218,116,9
+247,243,A follows B,218,116,9
+243,248,A follows B,164,20,26
+248,243,A follows B,164,20,26
