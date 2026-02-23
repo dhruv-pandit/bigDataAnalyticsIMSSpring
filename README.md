@@ -8,18 +8,12 @@ Welcome to the GitHub repository for the **Big Data Analytics** lab sessions. Th
 
 ```
 /labs/
-
-
-/data/
-  - sample datasets used in labs.
+- weekly lab notebooks and exercises, organized by week.
 
 /resources/
   - slides, cheatsheets, and reference materials.
 ```
 
-## 🛠️ Getting Started
-
-To follow the labs on your own machine:
 ## 🛠️ Getting Started
 
 All lab work will be conducted on [Databricks Community Edition](https://login.databricks.com/signup?dbx_source=www&itm_data=dbx-web-nav&l=en-EN&itm_source=www&itm_category=home&itm_page=home&itm_location=nav&itm_component=menu-area&itm_offer=signup&tuuid=7f998fa9-e74f-4007-bc60-6159158e6c80&intent=SIGN_UP&provider=DB_FREE_TIER&sisu_state=eyJsZWdhbFRleHRTZWVuIjp7Ii9zaWdudXAiOnsidG9zIjp0cnVlLCJwcml2YWN5Ijp0cnVlLCJjb3Jwb3JhdGVFbWFpbFNoYXJpbmciOnRydWV9fX0%3D), a free cloud-based environment for running Apache Spark notebooks. 
@@ -41,7 +35,7 @@ To get started:
 
 ## 🚀 Final Projects
 
-The last few weeks of the course are dedicated to applying what you've learned in a practical project. Project guidelines and grading rubrics will be provided in `/final-projects`.
+The last few weeks of the course are dedicated to applying what you've learned in a practical project. Project guidelines and grading rubrics will be provided in `/project`.
 
 
 
