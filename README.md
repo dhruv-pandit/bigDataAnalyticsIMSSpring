@@ -16,17 +16,18 @@ Welcome to the GitHub repository for the **Big Data Analytics** lab sessions. Th
 
 ## 🛠️ Getting Started
 
-All lab work will be conducted on [Databricks Community Edition](https://login.databricks.com/signup?dbx_source=www&itm_data=dbx-web-nav&l=en-EN&itm_source=www&itm_category=home&itm_page=home&itm_location=nav&itm_component=menu-area&itm_offer=signup&tuuid=7f998fa9-e74f-4007-bc60-6159158e6c80&intent=SIGN_UP&provider=DB_FREE_TIER&sisu_state=eyJsZWdhbFRleHRTZWVuIjp7Ii9zaWdudXAiOnsidG9zIjp0cnVlLCJwcml2YWN5Ijp0cnVlLCJjb3Jwb3JhdGVFbWFpbFNoYXJpbmciOnRydWV9fX0%3D), a free cloud-based environment for running Apache Spark notebooks. 
+
+
+All lab work will be conducted on Lightning AI and your local environment, a free cloud-based environment for running notebooks. 
 
 To get started:
 
-1. Sign up or log in at [Databricks Community Edition](https://login.databricks.com/signup?dbx_source=www&itm_data=dbx-web-nav&l=en-EN&itm_source=www&itm_category=home&itm_page=home&itm_location=nav&itm_component=menu-area&itm_offer=signup&tuuid=7f998fa9-e74f-4007-bc60-6159158e6c80&intent=SIGN_UP&provider=DB_FREE_TIER&sisu_state=eyJsZWdhbFRleHRTZWVuIjp7Ii9zaWdudXAiOnsidG9zIjp0cnVlLCJwcml2YWN5Ijp0cnVlLCJjb3Jwb3JhdGVFbWFpbFNoYXJpbmciOnRydWV9fX0%3D).
-2. Create a new **Workspace** and **Cluster** (default settings are fine for the first few weeks -  later weeks might require specific ML Clusters).
-3. Import the lab notebooks into your Workspace from this repository using:
+1. Sign up or log in at [Lightning](https://lightning.ai/).
+   1. Use your university email to create an account, or sign in with Github. We recommend signing in with Github to easily access the lab materials, and also found from experience that this is the fastest way to sign up.
+2. Import the lab notebooks into your Workspace from this repository using:
    - URL import, or
    - Clone the repository, download the files, and upload them into your workspace.
-4. Attach the notebook to your cluster and run the cells interactively.
-
+3. Continue as you would with any Jupyter notebook, running cells and following along with the exercises.
 
 ## 📚 Recommended Reading
 
