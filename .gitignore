@@ -2,3 +2,10 @@
 /labs/week02/presentation
 .DS_Store
 labs/.DS_Store
+labs/week10/full-oldb.LATEST/relationships.csv
+labs/week10/full-oldb.LATEST/GENERATED_ON_20250331.txt
+labs/week10/full-oldb.LATEST/nodes-entities.csv
+labs/week10/full-oldb.LATEST/nodes-officers.csv
+labs/week10/full-oldb.LATEST/nodes-others.csv
+labs/week10/full-oldb.LATEST/nodes-intermediaries.csv
+labs/week10/full-oldb.LATEST/nodes-addresses.csv
